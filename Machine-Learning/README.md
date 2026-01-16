@@ -35,5 +35,3 @@ Projects related to natural language processing and text classification.
 - TensorFlow / PyTorch (where applicable)
 - Jupyter Notebooks
 
-## Structure
-Each project folder typically contains:
