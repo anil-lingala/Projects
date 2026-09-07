@@ -1,6 +1,5 @@
-# CS 6375 Project 1 - Spam Classification
+# Spam Classification
 
-Name: Anil Lingala (akl180001)  
 
 ---
 
@@ -98,4 +97,3 @@ Copy these into the report.
 - 12 CSV files
 - Tables for Multinomial NB, Bernoulli NB, Logistic Regression
 - Report answering the project questions
-
