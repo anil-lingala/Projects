@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated artifacts
+app.py
+url_model.pkl
+streamlit_logs.txt
+cloudflared_logs.txt
+cloudflared
+
+# Environment
+.env
+venv/
+.ipynb_checkpoints/
